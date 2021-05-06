@@ -2,7 +2,7 @@
 
 All procedures are the same for Windows, Linux, or Mac OS. Raspberry Pi terminal commands have been included for ease of use.
 
-> **IMPORTANT:** Minimalist hardware —both virtual and physical— is better suited for production deployments, where the use of the GUI is minimal. We highly recommend learning Superalgos in a local installation. Mastering the system takes time, and the use of the GIU to go through in-app tutorials is crucial during the learning process. Your experience will be orders of magnitude better if you follow this advice: leave minimalist hardware for when you are ready to start trading live.
+> **IMPORTANT:** Minimalist hardware —both virtual and physical— is better suited for production deployments, where the use of the GUI is minimal. We highly recommend learning Superalgos in a local installation. Mastering the system takes time, and the use of the GUI to go through in-app tutorials is crucial during the learning process. Your experience will be orders of magnitude better if you follow this advice: leave minimalist hardware for when you are ready to start trading live.
 
 ![superalgos-readme](https://user-images.githubusercontent.com/13994516/106380124-844d8980-63b0-11eb-9bd9-4f977b6c183b.gif)
 
